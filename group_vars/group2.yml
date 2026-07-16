@@ -1,0 +1,5 @@
+---
+mxbi_experiment_name: self-initiated-discriminate
+mxbi_experiment_repository: git@github.com:CHiPmxbi/self-initiated-discriminate.git
+mxbi_experiment_cogmotego_email_recipients:
+  - YHu@dpz.eu

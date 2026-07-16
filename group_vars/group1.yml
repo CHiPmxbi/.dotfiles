@@ -1,0 +1,5 @@
+---
+mxbi_experiment_name: GNGSiD
+mxbi_experiment_repository: git@github.com:CHiPmxbi/GNGSiD.git
+mxbi_experiment_cogmotego_email_recipients:
+  - YHu@dpz.eu
